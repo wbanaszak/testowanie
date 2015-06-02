@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<Person_Has_Car personId="0" carId="0"/>
+	<Person_Has_Car personId="0" carId="1"/>
+	<Person_Has_Car personId="1" carId="0"/>
+	<Person_Has_Car personId="1" carId="4"/>
+	<Person_Has_Car personId="10" carId="10"/>
+</dataset>
